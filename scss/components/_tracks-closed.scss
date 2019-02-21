@@ -1,0 +1,46 @@
+.tracks-list{
+  .ruby-react{
+    background-image: linear-gradient(-90deg, #E40200 0%, #EE00A5 100%),
+                      $top-gradient;
+  }
+  .ruby-rails{
+    background-image: linear-gradient(-270deg, #FF0000 0%, #610000 100%),
+                      $top-gradient;
+  }
+  .fidgetech{
+    background-image: linear-gradient(-270deg, #FF9900 0%, #FF0000 100%),
+                      $top-gradient;
+  }
+  .intro-evening{
+    background-image: linear-gradient(-90deg, #FFBD00 0%, #FFF900 100%),
+                      $top-gradient;
+  }
+  .intern-job{
+    background-image: linear-gradient(-270deg, #B4EC51 0%, #429321 100%),
+                      $top-gradient;
+  }
+  .front-end{
+    background-image: linear-gradient(-90deg, #00B076 0%, #6BC7FF 100%),
+                      $top-gradient;
+  }
+  .c-react{
+    background-image: linear-gradient(-90deg, #632BFD 0%, #60DAFB 100%),
+                      $top-gradient;
+  }
+  .archived{
+    background-image: linear-gradient(-270deg, #FFCE83 0%, #A96A2E 100%),
+                      $top-gradient;
+  }
+  .workshops{
+    background-image: linear-gradient(-90deg, #676767 0%, #E6E6E6 100%),
+                      $top-gradient;
+  }
+  .all-courses{
+    background-image: linear-gradient(-90deg, #FF00F2 0%, #7133FF 16%, #009FFF 32%, #28FF00 49%, #EBFE00 66%, #FF9500 83%, #FF0000 100%),
+                      $top-gradient;
+  }
+
+  .tracks-open{
+    display: none;
+  }
+}
