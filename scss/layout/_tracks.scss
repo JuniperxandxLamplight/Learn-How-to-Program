@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  margin: 10px 0;
+}
+
+.tracks-list{
+  width: 100%;
+  img{
+    width: 18px;
+    height: 8px;
+  }
+  div{
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+  }
+}
