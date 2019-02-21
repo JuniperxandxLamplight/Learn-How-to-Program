@@ -3,3 +3,11 @@
 
 @import 'base/reset';
 @import'base/typography';
+
+@import 'layout/main';
+@import 'layout/nav-bar';
+@import 'layout/tracks';
+
+@import 'components/background';
+@import 'components/nav';
+@import 'components/tracks-closed';
