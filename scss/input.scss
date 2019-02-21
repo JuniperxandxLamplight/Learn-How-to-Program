@@ -2,6 +2,7 @@
 @import 'abstracts/variables';
 
 @import 'base/reset';
+<<<<<<< HEAD
 @import'base/typography';
 
 @import 'layout/main';
@@ -12,3 +13,8 @@
 @import 'components/nav';
 @import 'components/footer';
 @import 'components/tracks-closed';
+=======
+@import 'base/typography';
+@import 'layout/index';
+@import 'layout/course';
+>>>>>>> master
